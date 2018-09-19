@@ -1,0 +1,15 @@
+{
+  "name": "homework4",
+  "version": "1.0.0",
+  "description": "changing date and time from an api",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --progress"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016  https://github.com/MissouriState-CSC515-Spring2018/Homework4-mk2961.git"
+  },
+  "author": "michael knapp knapp296@live.missouristate.edu",
+  "license": "ISC"
+}
